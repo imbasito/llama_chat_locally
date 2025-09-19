@@ -15,6 +15,7 @@ Features a **ChatGPT-like UI**, conversation history, model selection, and reset
 ---
 
 ## 📂 Project Structure
+```
 📂 local-llm-streamlit-ollama
 ┣ 📂 utils
 ┃ ┗ 📜 ollama_api.py
@@ -24,7 +25,7 @@ Features a **ChatGPT-like UI**, conversation history, model selection, and reset
 ┣ 📜 requirements.txt
 ┣ 📜 README.md
 ┗ 📜 Local_LLM_Streamlit_Ollama_Report_v1.pdf
-
+```
 
 ---
 
@@ -34,21 +35,21 @@ Features a **ChatGPT-like UI**, conversation history, model selection, and reset
    git clone https://github.com/<your-username>/local-llm-streamlit-ollama.git
    cd local-llm-streamlit-ollama
    ```
-## 👉 Install Ollama
+### 👉 Install Ollama
 https://ollama.com/
 Please make sure you download the model based on the resources available on your machine. (I used llama3.1:8b)
 
-## Install dependencies:
+### Install dependencies:
 
    ``` pip install -r requirements.txt
 Ensure Ollama is installed and running locally:
    ```
-## Run the app:
+### Run the app:
 ```
 streamlit run app.py
 ```
 
-##Open in browser:
+### Open in browser:
 ```
 http://localhost:8501
 ```
@@ -57,8 +58,8 @@ A detailed project report is included:
 Local_LLM_Streamlit_Ollama_Report_v1.pdf
 
 
-🧑‍💻 Author
-Abdul Basit Khan
+🧑‍💻 Author  
+Abdul Basit Khan  
 (LinkedIn)[https://www.linkedin.com/in/imbasito/] | (GitHub)[https://github.com/imbasito]
 
 
