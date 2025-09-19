@@ -60,6 +60,6 @@ Local_LLM_Streamlit_Ollama_Report_v1.pdf
 
 🧑‍💻 Author  
 Abdul Basit Khan  
-(LinkedIn)[https://www.linkedin.com/in/imbasito/] | (GitHub)[https://github.com/imbasito]
+[LinkedIn](https://www.linkedin.com/in/imbasito/) | [GitHub](https://github.com/imbasito)
 
 
